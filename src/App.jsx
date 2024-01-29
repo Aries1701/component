@@ -20,7 +20,7 @@ const CodeList = () => {
 
   return (
     <div>
-      <h2>Danh sách mã JSX</h2>
+      <h2>JSX</h2>
       <div>
         <input type="text" value={inputValue} onChange={handleInputChange} />
         <button onClick={handleAddCode}>Add</button>
